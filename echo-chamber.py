@@ -71,7 +71,7 @@ for i in range(0, turns):
     print("\nSpeaker 2: " + instance2_response + "\n")
     master_conversation += "\nSpeaker 2: " + instance2_response + "\n"
 
-print("\nModerator: Thank you, gentlmen. We'll have to end our discussion there...\n")
+print("\nModerator: Thank you, gentlemen. We'll have to end our discussion there...\n")
 master_conversation += "\n\nEND\n\n"
 
 # Create a text file out of the conversation
